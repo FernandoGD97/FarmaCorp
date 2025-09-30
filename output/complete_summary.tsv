@@ -1,0 +1,6 @@
+Model	BLEU	CHRF	TER
+Helsinki-NLP/opus-mt-es-en-finetuned	72.14 ± 1.38	84.05 ± 0.9	20.94 ± 1.16
+Helsinki-NLP/opus-mt-es-en	54.61 ± 0.4	74.29 ± 0.36	34.12 ± 0.41
+facebook/m2m100_1.2B	48.71 ± 0.05	70.06 ± 0.16	39.82 ± 0.22
+facebook/m2m100_418M	44.72 ± 0.56	67.5 ± 0.43	42.81 ± 0.57
+facebook/nllb-200-distilled-600M	51.22 ± 0.61	71.53 ± 0.53	37.7 ± 0.56
