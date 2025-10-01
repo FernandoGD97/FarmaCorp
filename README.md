@@ -9,12 +9,12 @@ FarmaCorp is structured into three complementary subcorpora:
 
 - **Comparable corpus (FarmaCorp_comp):**  
   Collections of domain-specific original texts in Spanish and English, including drug information leaflets, research articles, regulations, and institutional documents.  
-  - FC_ES: 36,450 Spanish texts (~170M tokens)  
-  - FC_EN: 9,786 English texts (~17M tokens)
+  - FC_ES: 36.450 Spanish texts (~170M tokens)  
+  - FC_EN: 9.786 English texts (~17M tokens)
 
 - **Parallel corpus (FarmaCorp_par):**  
   Spanish–English aligned texts from MEDLINE and Ken Pharma, consisting of research articles, medical encyclopedia entries, and drug leaflets.  
-  - 2,544 aligned documents  
+  - 2.544 aligned documents  
   - ~1.4M Spanish tokens, ~1.3M English tokens
 
 - **Multimodal corpus (FarmaCorp_mul):**  
