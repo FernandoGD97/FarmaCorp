@@ -1,5 +1,5 @@
 """
-Developed by Fernando Gallego, Lexytrad Research Group, University of Málaga.
+Developed by Francisco J. Lima, María Cuadrado, Fernando Gallego & Gloria Corpas, Lexytrad Research Group, University of Málaga.
 
 This script evaluates baseline machine translation models (Spanish → English) 
 using multiple folds of a parallel biomedical corpus. 
